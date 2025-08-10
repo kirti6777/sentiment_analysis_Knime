@@ -1,1 +1,1 @@
-# sentiment_analysis_Knime
+# Sentiment Analysis Knime
